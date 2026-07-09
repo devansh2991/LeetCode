@@ -79,6 +79,26 @@ Dynamic Programming  ░░░░░░░░░░  The dark arts
 
 ---
 
+## 🔄 LeetSync Setup (Auto-update this repo)
+
+Use this once to connect LeetCode submissions directly to this repository:
+
+1. Install the **LeetSync** browser extension and open its **Options** page.
+2. Generate a GitHub **Personal Access Token (classic)** with `repo` scope.
+3. In LeetSync, authenticate with:
+   - **GitHub Username:** `devansh2991`
+   - **Token:** your generated PAT
+4. Set:
+   - **Repository:** `devansh2991/LeetCode`
+   - **Branch:** `main` (or your repo default branch)
+5. Configure the destination folder to match this repo structure, e.g. `leetcode/`.
+6. Keep auto commit/push enabled in LeetSync, then save.
+7. Verify by submitting one solved LeetCode problem and checking that files are created/updated here.
+
+If sync fails, recheck token scope, repository name, and branch value in LeetSync settings.
+
+---
+
 ## 💡 My Problem-Solving Approach
 
 ```python
